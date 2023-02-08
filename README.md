@@ -15,4 +15,4 @@ Só joga na máquina e deixar instalar
 • instala recursos e o script
 
 
-apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/F4K3R171337/PRO/main/ssh-plus)
+apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/Rafa4g/zuk/main/ssh-plus)
